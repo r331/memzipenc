@@ -1,0 +1,14 @@
+.gradle/
+.idea/
+build/
+out/
+
+*.txt
+*.log*
+gradlew
+gradlew.bat
+.gradle/
+gradle/
+target/
+*.iml
+
